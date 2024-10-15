@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button__news {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.button__stories {
+  margin-bottom: 20px;
+}
